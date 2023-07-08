@@ -23,8 +23,9 @@ pip install -r requirements.txt
 This will install PDFusion and its dependencies, including PyPDF2 and langchain.
 
 Create .env file and your key in following format
-
+```bash
 OPENAI_API_KEY = <OpenAi_key>
+```
 
 ## Usage
 
