@@ -3,11 +3,5 @@ pypdf2==3.0.1
 langchain==0.0.228
 python-dotenv==1.0.0
 faiss-cpu==1.7.4
-# OpenAi(Paid)
 openai==0.27.8
 tiktoken==0.4.0
-# Hugging Face model(Free)
-huggingface_hub==0.16.4
-# Emebedding Model InstructorEmbedding (Do all thing in CPU only(slow), OpenAi embedding model works on thier server(fast))
-InstructorEmbedding==1.0.1
-sentence-transformers==2.2.2
