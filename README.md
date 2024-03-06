@@ -1,6 +1,6 @@
 
 # PDFusion: A smart PDF reader and query answering system
-Fusion of PDFs and artificial intelligence to answer questions based on PDFs.
+Fusion of PDFs with GPT Model to answer questions based on PDFs.
 
 This is a project that aims to make PDFs more interactive and intelligent. It allows users to upload PDF files and ask questions based on the content of the PDFs. It uses the langchain framework to train language models on the PDF data and generate natural language answers.
 
